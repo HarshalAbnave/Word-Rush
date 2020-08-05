@@ -1,1 +1,1 @@
-# fictional-potato
+# Word Rush
